@@ -1,4 +1,4 @@
-# 🧠 Arabic RAG Question Answering System (FAISS + BGE-M3 + Gemini)
+# 🧠 Arabic RAG Question Answering System :
 
 An end-to-end **Retrieval Augmented Generation (RAG)** system designed to answer Arabic questions using document-grounded knowledge instead of relying only on LLM memory.
 
